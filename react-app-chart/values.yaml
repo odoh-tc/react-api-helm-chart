@@ -1,0 +1,10 @@
+fe:
+  configmap:
+    name: fe-configmap
+  secret:
+    name: fe-secret
+api:
+  configmap:
+    name: api-configmap
+  secret:
+   name: api-secret
